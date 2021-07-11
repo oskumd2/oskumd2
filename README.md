@@ -1,4 +1,4 @@
-[![Header](https://github.com/oskumd2/oskumd2/blob/main/coco%20copy.jpg "Header")](https://scholar.google.com/citations?user=GPin07AAAAAJ&hl=ko)
+[![Header](https://github.com/oskumd2/oskumd2/blob/main/coco%20copy.jpg "Header")](https://oskumd2.github.io/)
 
 ## Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Jang Ho Ahn. I'm from South Korea and currently studying at Seoul National University College of Medicine. You can find me on [![Twitter][1.2]][1] .
