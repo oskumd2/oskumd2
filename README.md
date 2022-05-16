@@ -17,14 +17,7 @@ My name is Jang Ho Ahn. I'm from South Korea and currently studying at Seoul Nat
 <a href="https://github.com/oskumd2/oskumd2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oskumd2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jang Ho's GitHub Stats" />
 </a>
-
-<a href="https://github.com/oskumd2/research">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskumd2&repo=research&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/oskumd2/universal-computation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskumd2&repo=universal-computation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/tXSoThF.png
