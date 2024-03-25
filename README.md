@@ -1,7 +1,7 @@
 [![Header](https://github.com/oskumd2/oskumd2/blob/main/coco%20copy.jpg "Header")](https://oskumd2.github.io/)
 
 ## Hi there!
-My name is Jang Ho Ahn. I'm from South Korea and currently studying at Seoul National University College of Medicine. You can find me on [![Twitter][1.2]][1] .
+My name is Jang Ho Ahn. I'm currently working at Seoul National University Hospital. You can find me on [![Twitter][1.2]][1] .
 <br>
 
 ### 🔧 Technologies & Tools
